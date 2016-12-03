@@ -1,2 +1,2 @@
 # 24prtest
-A 24 pull request repo for HTML, CSS and some JavaScript issues. 
+A 24 pull request repo for HTML, CSS and some JavaScript issues for open source software.
